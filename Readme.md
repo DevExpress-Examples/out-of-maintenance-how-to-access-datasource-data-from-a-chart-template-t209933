@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DataSourceFromTemplate/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DataSourceFromTemplate/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/DataSourceFromTemplate/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DataSourceFromTemplate/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to access datasource data from a chart template
 
 
